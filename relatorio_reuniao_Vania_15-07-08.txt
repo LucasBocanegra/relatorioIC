@@ -1,0 +1,16 @@
+1. poster (até sexta)
+	- corresponder texto
+	- sequencia de interações do jogo
+	- ilustrar uma persona
+	- mostrar o trabalho de pesquisa
+	- falar da engine, ilustrar, mostrar código
+
+2. IHC'15 (até sabado)
+	- usar a apflexilidade no título
+	- focar questões de flexibilidade (passando pelas desições de design)
+	- duas personas com caracteristicas diferentes (possibilidades de customização)
+	- com tais caracteristicas vai ser possível ...
+
+3. IC relatório - min 20 páginas (10/08)
+	- seguir estrutura de dissertação
+	- 5 sessão (introducao - como é o mundo, estatistica, o problema, o jogo esta em um contexto maior de desenvimento; Referencial teórios - depressao, DP, engine do Franco; Trabalhos relacionados; Metodologia- estratégia de modelagem,treinamentos, Resultados -DR, mostrar o jogo; avaliação)
